@@ -3,6 +3,7 @@ This project explores the US-Accidents dataset from Kaggle, performing explorato
 
 ## Dataset Information
 Source: Kaggle
+The dataset contains 7.7 M records.
 Note: This dataset does not contain data for New York, which is the most populated city in the U.S.
 Downloading the Dataset
 To download the dataset, use the Kaggle API key. If you haven't set up the Kaggle API, follow these steps:
